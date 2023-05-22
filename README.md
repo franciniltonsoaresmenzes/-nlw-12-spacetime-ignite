@@ -2,7 +2,7 @@
   <div>
     <img alt="Logo" title="#logo" src="preview/logo.png" width="400"/>
   <div>
-<h2>
+</h2>
 
 <h1 align="center">NLW - Space Time  🚀 </h1>
 
